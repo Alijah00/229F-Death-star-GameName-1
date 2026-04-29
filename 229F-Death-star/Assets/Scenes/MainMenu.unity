@@ -356,6 +356,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 3973536274431768185, guid: cf67c829902d86742866c99c2c4a9b79, type: 3}
+      propertyPath: m_text
+      value: "1670704053 Alijah Tan No. 20 Sec 229F\r\n "
+      objectReference: {fileID: 0}
     - target: {fileID: 5188950497564497617, guid: cf67c829902d86742866c99c2c4a9b79, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
